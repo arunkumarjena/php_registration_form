@@ -1,0 +1,72 @@
+/* .row{
+    background-color: black;
+}
+.box{
+    height: 300px;
+    background-color: blue;
+} */
+.container-fluid{
+    border: 0px solid black;
+}
+/* right-side{
+    width: 400px;
+    height: 300px;
+    background-color:red;
+} */
+.col,.col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10,.col-11,.col-12{
+    border: 0px solid green;
+}
+.row{
+    border: 0px solid red;
+}
+#header{
+    background-color: orange;
+    padding: 10px 0px 10px 10px;
+}
+
+#content{
+    background-color: white;
+}
+
+#footer{
+    background-color: orange;
+}
+h2{
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: 300;
+}
+h1{
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: 300;
+}
+body {
+    background: url('https://static-communitytable.parade.com/wp-content/uploads/2014/03/rethink-target-heart-rate-number-ftr.jpg') fixed;
+   background-size: cover;
+}
+
+*[role="form"] {
+   max-width: 530px;
+   padding: 15px;
+   margin: 0 auto;
+   border-radius: 0.3em;
+   background-color: #f2f2f2;
+}
+
+*[role="form"] h2 { 
+   font-family: 'Open Sans' , sans-serif;
+   font-size: 40px;
+   font-weight: 600;
+   color: #000000;
+   margin-top: 5%;
+   text-align: center;
+   text-transform: uppercase;
+   letter-spacing: 4px;
+}
+
+.submitMsg{
+    font-size: 25px;
+    color: green;
+    text-align: center;
+}
